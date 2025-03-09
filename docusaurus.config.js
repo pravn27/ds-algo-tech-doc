@@ -10,10 +10,10 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "DS & Algo",
+  title: "Data Structures & Algorithms",
   tagline:
     "Everything about Data Structures & Algorithms, its reference links & technical documentations",
-  // favicon: "/img/favicon.ico",
+  favicon: "/img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://pravn27.github.io",
@@ -78,15 +78,14 @@ const config = {
           src: "/img/logo.png",
         },
         items: [
-          // {
-          //   type: "docSidebar",
-          //   sidebarId: "sidebarDocsId",
-          //   position: "left",
-          //   label: "About VS System",
-          // },
           {
-            to: "/docs/category/js-documentations",
-            label: "DS & Algo",
+            to: "/docs/category/data-structure/",
+            label: "Data Structures",
+            position: "left",
+          },
+          {
+            to: "/docs/category/algorithms/",
+            label: "Algorithms",
             position: "left",
           },
           {
@@ -112,8 +111,12 @@ const config = {
             title: "DS & Algo",
             items: [
               {
-                label: "DS & Algo",
-                to: "/docs/category/js-documentations",
+                label: "Data Structures",
+                to: "/docs/category/data-structure/ ",
+              },
+              {
+                label: "Algorithms",
+                to: "/docs/category/algorithms/",
               },
             ],
           },

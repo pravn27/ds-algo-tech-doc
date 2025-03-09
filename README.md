@@ -1,4 +1,4 @@
-# DS & Algo complete documentation, related & reference links of JS
+# Data Structure & Algorithms complete documentation, related & its reference links
 
 ## Build technical documentation with [Docusaurus](https://docusaurus.io/)
 
