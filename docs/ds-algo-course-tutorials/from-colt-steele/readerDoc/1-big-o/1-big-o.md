@@ -33,3 +33,7 @@ sidebar_position: 1
   - This can often be done using "Big O" notation, which provides a high-level understanding of the algorithm's efficiency.
 
 - [JS Code exercise](https://github.com/pravn27/ds-algo-tech-doc/tree/master/docs/ds-algo-course-tutorials/from-colt-steele/readerDoc/1-big-o/js-code-exercise)
+
+## Visualizing Time Complexity
+
+- https://rithmschool.github.io/function-timer-demo/
