@@ -6,7 +6,7 @@ sidebar_position: 1
 
 - Resource Docs
 
-  - [Big O Notation Pdf Notes](https://github.com/pravn27/ds-algo-tech-doc/blob/master/docs/ds-algo-course-tutorials/from-scott-barrett/readerDoc/1-big-o/Big%2BO%2BNotes.pdf)
+  - [Big O Notation Pdf Notes](https://github.com/pravn27/ds-algo-tech-doc/blob/master/docs/ds-algo-course-tutorials/from-colt-steele/readerDoc/pdf-docs/02-pdf-slides-big-o-notation.pdf)
 
 ## Introduction
 
