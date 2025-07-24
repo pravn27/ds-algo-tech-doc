@@ -4,7 +4,8 @@ const addUptoNNumber = (n) => {
 
 const inputSize = 1000000000;
 const t1 = performance.now();
-addUptoNNumber(inputSize);
+const result = addUptoNNumber(inputSize);
+console.log("result ", result);
 const t2 = performance.now();
 console.log(
   `Time taken to run addUptoNNumber function for InputSize ${inputSize}`

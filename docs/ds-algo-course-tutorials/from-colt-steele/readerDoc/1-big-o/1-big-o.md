@@ -21,4 +21,15 @@ sidebar_position: 1
 
 ## Timing our Code
 
--
+- What metrics using for Big O Notation ?
+  - Time Complexity (preferred)
+  - Space Complexity
+- **With Time Complexity, will not go with measuring time taken to run the code, instead we focus on the Number of Operations performed as the input size grows.**
+
+- How to measure Time Complexity?
+
+  - Count the number of simple Operations the computer has to perform.
+  - We can measure Time Complexity by analyzing the algorithm and counting the number of basic operations it performs as a function of the input size.
+  - This can often be done using "Big O" notation, which provides a high-level understanding of the algorithm's efficiency.
+
+- [JS Code exercise](https://github.com/pravn27/ds-algo-tech-doc/tree/master/docs/ds-algo-course-tutorials/from-colt-steele/readerDoc/1-big-o/js-code-exercise)
