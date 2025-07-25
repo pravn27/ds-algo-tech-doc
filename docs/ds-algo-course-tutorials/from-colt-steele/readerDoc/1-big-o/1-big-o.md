@@ -7,6 +7,7 @@ sidebar_position: 1
 - Resource Docs
 
   - [Big O Notation Pdf Notes](https://github.com/pravn27/ds-algo-tech-doc/blob/master/docs/ds-algo-course-tutorials/from-colt-steele/readerDoc/pdf-docs/02-pdf-slides-big-o-notation.pdf)
+  - [JS Code exercise](https://github.com/pravn27/ds-algo-tech-doc/tree/master/docs/ds-algo-course-tutorials/from-colt-steele/readerDoc/1-big-o/js-code-exercise)
 
 ## Introduction
 
