@@ -38,3 +38,10 @@ sidebar_position: 1
 ## Visualizing Time Complexity
 
 - https://rithmschool.github.io/function-timer-demo/
+
+## Space Complexity
+
+- Space Complexity measures the amount of working storage an algorithm needs. This includes both the temporary space allocated by the algorithm and the space needed for the input values.
+- Like Time Complexity, we express Space Complexity using Big O notation, which allows us to describe the growth rate of the space requirements as the input size increases.
+- When analyzing Space Complexity, we focus on the maximum amount of memory the algorithm requires at any point during its execution.
+- Focus on **Auxiliary Space Complexity** refers to the extra space or temporary space used by an algorithm, excluding the space taken by the input values. It helps us understand the additional memory overhead introduced by the algorithm such as the space needed for variables, data structures, and function call stacks.
