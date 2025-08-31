@@ -6,12 +6,12 @@ sidebar_position: 1
 
 ## Introduction
 
-- Process of DSA, solved in 2 step process
+- **Process of DSA, solved in 2 step process**
 
   - Once understand the problems
     - what is the `Thought process & Approaching` to the problems in certain way and `finding the solution to problem`
     - Optimize the solution, time & space complexity
-  - Coding / Implementation
+  - `Coding / Implementation`
     - Once solution is ready, then go with Code / Implementation
 
 - when ever solving DSA problems, never start with coding, its worst way of solving problem
@@ -48,4 +48,4 @@ sidebar_position: 1
   - DSA does not care about which language you use to solve it ?
   - DSA can solve with any programming language
 
-- Language using Javascript & Python
+- Language using `Javascript, Typescript & Python`
