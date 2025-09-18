@@ -14,6 +14,8 @@ sidebar_position: 1
   - `Coding / Implementation`
     - Once solution is ready, then go with Code / Implementation
 
+- All DSA problems should practice in `Pen & Notebook with Thought process & Approaching to the problem and dry run it` then go with `Coding / Implementation`
+
 - when ever solving DSA problems, never start with coding, its worst way of solving problem
 
 - Don't just study DSA only for Interview !!
@@ -29,7 +31,7 @@ sidebar_position: 1
 
 - Follow the curriculum in the order present in course
 
-- Make your own motes, write & practice your own code
+- Make your own notes, write & practice your own code
 
 - Understanding DSA, it takes time !!
 
