@@ -22,4 +22,9 @@ sidebar_position: 2
 
 ![alt text](../../readerDoc/images/warm-up/star-pattern-1-demo.png)
 
-**Stopped at 10min**
+## Star pattern - 2
+
+- Similar like Star pattern - 1
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-2-dry-run.png)
+
+**Stopped at 20min**
