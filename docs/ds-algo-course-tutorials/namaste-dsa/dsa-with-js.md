@@ -11,3 +11,22 @@ sidebar_position: 1
 ## Namaste DSA Coding challenge
 
 - https://github.com/pravn27/ds-algo-coding-challenge/tree/master/namaste-dsa
+
+## DSA Interview guidance
+
+- Steps to follow once get DSA problems
+  - Understand problem statement completely with inputs, outputs
+  - Try with sample inputs / outputs
+  - Identify the pattern and Thought process to solve
+  - Dry run with sample inputs, outputs along with your pseudo code
+  - Implement / write code
+  - Make sure think about all Edge / Corner cases covered
+  - Good to ask with Interviewer for what all edge case to cover
+
+## DSA problems Edge / Corner cases
+
+- Array based problems
+  - What if Array is Empty ?
+  - What if Array has negative numbers ?
+  - What if Array has Duplicates numbers ?
+  - What if Array has Infinity numbers ?

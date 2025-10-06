@@ -1,0 +1,25 @@
+---
+sidebar_position: 2
+---
+
+# 2 - Star Pattern
+
+> Learn how to create various star-based patterns (pyramids, inverted patterns) using nested loops. A fun way to practice loops and understand iteration.
+
+## Prerequisites to solve Star Pattern problem
+
+    - Understanding Nested Loops (Loop within a Loop) is very important
+    - Recap of Nested Loops
+    ![alt text](../../readerDoc/images/warm-up/nested-loops-recap.png)
+
+## Star pattern - 1
+
+![alt text](../../readerDoc/images/warm-up/star-pattern-1.png)
+
+![alt text](../../readerDoc/images/warm-up/star-pattern-1-dry-run.png)
+
+![alt text](../../readerDoc/images/warm-up/star-pattern-1-row-column.png)
+
+![alt text](../../readerDoc/images/warm-up/star-pattern-1-demo.png)
+
+**Stopped at 10min**
