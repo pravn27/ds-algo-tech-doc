@@ -24,6 +24,7 @@ sidebar_position: 2
 
 ## Star pattern - 2
 
+- Right angled star triangle
 - Similar like Star pattern - 1
   ![alt text](../../readerDoc/images/warm-up/star-pattern-2-dry-run.png)
 
