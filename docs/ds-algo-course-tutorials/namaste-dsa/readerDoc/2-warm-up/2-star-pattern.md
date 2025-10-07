@@ -28,4 +28,16 @@ sidebar_position: 2
 - Similar like Star pattern - 1
   ![alt text](../../readerDoc/images/warm-up/star-pattern-2-dry-run.png)
 
-**Stopped at 20min**
+## Star pattern - 3
+
+- Right Angled Number Triangle
+- Similar like Star pattern - 2
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-3-dry-run.png)
+
+## Star pattern - 4
+
+- Right-Angled Triangle of Repeated Numbers
+- Similar like Star pattern - 3
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-4-dry-run.png)
+
+**Stopped at 30min**
