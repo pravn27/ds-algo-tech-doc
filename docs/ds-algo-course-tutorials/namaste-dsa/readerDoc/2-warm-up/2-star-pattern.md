@@ -40,4 +40,12 @@ sidebar_position: 2
 - Similar like Star pattern - 3
   ![alt text](../../readerDoc/images/warm-up/star-pattern-4-dry-run.png)
 
+## Star pattern - 5
+
+- Reverse Right-Angled Triangle of Increasing Numbers
+- Similar like Star pattern - 3, 4
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-5-dry-run.png)
+- Similar, instead of numbers, should print star
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-5.1-dry-run.png)
+
 **Stopped at 30min**
