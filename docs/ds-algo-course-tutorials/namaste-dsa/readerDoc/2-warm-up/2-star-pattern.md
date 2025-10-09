@@ -48,4 +48,8 @@ sidebar_position: 2
 - Similar, instead of numbers, should print star
   ![alt text](../../readerDoc/images/warm-up/star-pattern-5.1-dry-run.png)
 
-**Stopped at 30min**
+## Star pattern - 6
+
+- Right-Aligned Right-Angled Triangle of Stars
+- Similar like Star pattern - 4, 5
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-6-dry-run.png)
