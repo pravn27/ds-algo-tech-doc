@@ -53,3 +53,5 @@ sidebar_position: 2
 - Right-Aligned Right-Angled Triangle of Stars
 - Similar like Star pattern - 4, 5
   ![alt text](../../readerDoc/images/warm-up/star-pattern-6-dry-run.png)
+
+** Stopped at 50min **
