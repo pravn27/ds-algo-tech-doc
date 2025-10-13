@@ -54,4 +54,14 @@ sidebar_position: 2
 - Similar like Star pattern - 4, 5
   ![alt text](../../readerDoc/images/warm-up/star-pattern-6-dry-run.png)
 
-** Stopped at 50min **
+## Star pattern - 7
+
+- Right-Angled Triangle of Alternating 1s and 0s
+- Similar like Star pattern - 5, 6
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-7-dry-run.png)
+
+## Star pattern - 8
+
+- Right-Angled Triangle of Alternating 1s and 0s (Global Toggle)
+- Similar like Star pattern - 7
+  ![alt text](../../readerDoc/images/warm-up/star-pattern-8-dry-run.png)
