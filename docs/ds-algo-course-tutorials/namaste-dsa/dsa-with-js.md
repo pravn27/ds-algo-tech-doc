@@ -30,3 +30,8 @@ sidebar_position: 1
   - What if Array has negative numbers ?
   - What if Array has Duplicates numbers ?
   - What if Array has Infinity numbers ?
+- Numbers based problems
+  - What if number is
+    - 0
+    - negative
+    - decimal
