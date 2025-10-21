@@ -12,4 +12,6 @@ Write a function countDigits(n) that takes an integer n and returns how many dig
 
 ### Algorithm / Approach
 
-![alt text](../../readerDoc/images/warm-up/count-digit-algo.png)
+- https://github.com/pravn27/ds-algo-coding-challenge/tree/master/namaste-dsa/warm-up/count-digit
+
+- ![alt text](../../readerDoc/images/warm-up/count-digit-algo.png)
