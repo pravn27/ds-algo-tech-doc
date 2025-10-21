@@ -12,6 +12,10 @@ sidebar_position: 2
     - Recap of Nested Loops
     ![alt text](../../readerDoc/images/warm-up/nested-loops-recap.png)
 
+## Implement solutions
+
+- https://github.com/pravn27/ds-algo-coding-challenge/tree/master/namaste-dsa/warm-up/star-pattern
+
 ## Star pattern - 1
 
 ![alt text](../../readerDoc/images/warm-up/star-pattern-1.png)
