@@ -61,11 +61,13 @@ sidebar_position: 2
 ## Star pattern - 7
 
 - Right-Angled Triangle of Alternating 1s and 0s
+- Each row starts with 1
 - Similar like Star pattern - 5, 6
   ![alt text](../../readerDoc/images/warm-up/star-pattern-7-dry-run.png)
 
 ## Star pattern - 8
 
 - Right-Angled Triangle of Alternating 1s and 0s (Global Toggle)
+- Alternating 1, 0
 - Similar like Star pattern - 7
   ![alt text](../../readerDoc/images/warm-up/star-pattern-8-dry-run.png)

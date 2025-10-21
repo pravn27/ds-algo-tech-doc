@@ -10,13 +10,13 @@ sidebar_position: 1
 
 ### Arrays
 
-- Array elements stored in index values which starts from 0 by default. To define array index don't have a control
+- Array elements stored in `index values which starts from 0 by default`. To define array index don't have a control
 
   ![alt text](../images/array_img.png)
 
 ### Objects
 
-- Objects are stored in key value pair
+- Objects are stored in `key value pair`
 
   ![alt text](../images/obj_img.png)
 
