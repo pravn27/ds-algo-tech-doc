@@ -10,4 +10,4 @@ sidebar_position: 5
 
 - Similar like Integer Palindrome check
 - https://leetcode.com/problems/reverse-integer/description/
-- https://github.com/pravn27/ds-algo-coding-challenge/tree/master/namaste-dsa/warm-up/palindrome
+- https://github.com/pravn27/ds-algo-coding-challenge/tree/master/namaste-dsa/warm-up/reverse-integer
