@@ -60,5 +60,9 @@ sidebar_position: 3
 
 - Ignoring Constants or Smaller along with Bigger as Input size grows
   - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.1.png)
-
-Stopped at 1hr 8min
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.2.png)
+- Why to Ignoring Constants or Smaller as input size grows ?
+  - There is No significant changes by constants or smaller
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.3.png)
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.4.png)
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.5.png)
