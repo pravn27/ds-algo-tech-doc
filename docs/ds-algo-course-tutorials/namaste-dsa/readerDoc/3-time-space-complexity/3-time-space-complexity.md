@@ -45,4 +45,20 @@ sidebar_position: 3
 
 ## Space Complexity
 
+- How much extra space / memory using in the algorithm to solve problem ?
+- All extra variables using will consider as constant space complexity O(1)
+  - Eg: let max, let i, let j --> O(1) space complexity
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/sc-example1.1.png)
+- If creating new Array with size n, space complexity of O(n)
+  - let newArray = [oldArray.length] --> O(n)
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/sc-example1.2.png)
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/sc-example1.3.png)
+- For 2D matrix, will take space complexity of O(n^2)
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/sc-example1.4.png)
+
+## Time and Space Complexity evaluation by ignoring Constants
+
+- Ignoring Constants or Smaller along with Bigger as Input size grows
+  - ![alt text](https://raw.githubusercontent.com/pravn27/ds-algo-coding-challenge/refs/heads/master/namaste-dsa/ref-img/time-space-complexity/tc-cal-1.1.png)
+
 Stopped at 1hr 8min
