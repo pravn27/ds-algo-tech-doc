@@ -35,13 +35,13 @@ sidebar_position: 1
 
 - Understanding DSA, it takes time !!
 
-- Spaced repetition & Random Questions
+- `Spaced repetition & Random Questions`
 
   - Focus on thought process, approach to the problems
 
-- Join the community & help each other
+- `Join the community & help each other`
 
-- Make a habit of daily solving DSA problem at least once a day, at least one problem / day
+- **Make a habit of daily solving DSA problem at least once a day, at least one problem / day**
 
 ## Which language ?
 

@@ -15,12 +15,17 @@ sidebar_position: 1
 ## DSA Interview guidance
 
 - Steps to follow once get DSA problems
-  - Understand problem statement completely with inputs, outputs
-  - Try with sample inputs / outputs
-  - Identify the Pattern and Thought process to solve
-  - Dry run with sample inputs, outputs along with your pseudo code
-  - Implementation / write a actual code & execute
+  - Understand the problem statement completely with inputs, outputs
+    - Try with sample inputs / outputs
+  - Thought Process & Approach
+    - Identify the Pattern and Thought process to solve
+  - Pseudo Code
+    - Dry run with sample inputs, outputs along with your pseudo code
+  - Implementation
+    - write a actual code & execute
+    - use comments to break the your steps / approach to problems
   - Improve & Refactor
+    - Time & Space complexity analysis
   - Make sure think about all Edge / Corner cases covered
   - Good to ask with Interviewer for what all edge case to cover
 
