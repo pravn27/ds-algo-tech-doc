@@ -17,3 +17,8 @@ sidebar_position: 1
 
 - https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
 - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+
+## Others
+
+- https://www.youtube.com/watch?v=fS1Or4icDd0
+- https://bento.me/jagrit
