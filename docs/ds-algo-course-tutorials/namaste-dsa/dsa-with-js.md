@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ## DSA Interview guidance
 
-- Steps to follow once get DSA problems
+- Steps to follow while solving DSA problems
   - Understand the problem statement completely with inputs, outputs
     - Try with sample inputs / outputs
   - Thought Process & Approach
@@ -31,13 +31,22 @@ sidebar_position: 1
 
 ## DSA problems Edge / Corner cases
 
-- Array based problems
-  - What if Array is Empty ?
-  - What if Array has negative numbers ?
-  - What if Array has Duplicates numbers ?
-  - What if Array has Infinity numbers ?
-- Numbers based problems
-  - What if number is
-    - 0
-    - negative
-    - decimal
+- **Array based problems**
+
+  - What if input is not an array type?
+  - What if array is empty?
+  - What if array is null or undefined?
+  - What if array contains negative numbers?
+  - What if array contains duplicate elements?
+  - What if array contains `Infinity` or `-Infinity`?
+  - What if array contains `NaN`?
+  - What if array contains non-numeric values (strings, objects, etc.)?
+
+- **Number based problems**
+  - What if number is zero (`0`)?
+  - What if number is negative?
+  - What if number is decimal/floating-point?
+  - What if number is `Infinity` or `-Infinity`?
+  - What if number is `NaN`?
+  - What if input is not a number type?
+  - What if number exceeds safe integer limits (`Number.MAX_SAFE_INTEGER`)?
