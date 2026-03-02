@@ -7,7 +7,6 @@ sidebar_position: 1
 ## Introduction
 
 - **Process of DSA, solved in 2 step process**
-
   - Once understand the problems
     - what is the `Thought process & Approaching` to the problems in certain way and `finding the solution to problem`
     - Optimize the solution, time & space complexity
@@ -24,7 +23,6 @@ sidebar_position: 1
 - Focus only on understanding DSA, approach, solution to the problems
 
 - How much time it takes to study DSA ?
-
   - Don't hurry, take your time to understand DSA
   - At least 3 - 5 months for fair expectation
   - its long journey
@@ -35,8 +33,8 @@ sidebar_position: 1
 
 - Understanding DSA, it takes time !!
 
-- `Spaced repetition & Random Questions`
-
+- **`Spaced repetition & Random Questions`**
+  - Frequent Practice, Practice, Practice
   - Focus on thought process, approach to the problems
 
 - `Join the community & help each other`
@@ -46,7 +44,6 @@ sidebar_position: 1
 ## Which language ?
 
 - DSA is language agnostic
-
   - DSA does not care about which language you use to solve it ?
   - DSA can solve with any programming language
 
