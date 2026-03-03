@@ -36,6 +36,8 @@ sidebar_position: 1
 - **`Spaced repetition & Random Questions`**
   - Frequent Practice, Practice, Practice
   - Focus on thought process, approach to the problems
+  - **Spaced repetition on Weekly or Bi Weekly once**
+    - Pattern / Approach / Main logic
 
 - `Join the community & help each other`
 
@@ -47,4 +49,4 @@ sidebar_position: 1
   - DSA does not care about which language you use to solve it ?
   - DSA can solve with any programming language
 
-- Language using `Javascript, Typescript & Python`
+- Language using **`Javascript`** `Typescript & Python`
