@@ -6,18 +6,18 @@ sidebar_position: 1
 
 ## Introduction
 
-- **Process of DSA, solved in 2 step process**
+- ✅ **Process of DSA, solved in 2 step process**
   - Once understand the problems
     - what is the `Thought process & Approaching` to the problems in certain way and `finding the solution to problem`
     - Optimize the solution, time & space complexity
   - `Coding / Implementation`
     - Once solution is ready, then go with Code / Implementation
 
-- All DSA problems should practice in `Pen & Notebook with Thought process & Approaching to the problem and dry run it` then go with `Coding / Implementation`
+- ✅ All DSA problems should practice in `Pen & Notebook with Thought process & Approaching to the problem and dry run it` then go with `Coding / Implementation`
 
-- when ever solving DSA problems, never start with coding, its worst way of solving problem
+- 🚫 Whenever solving DSA problems, never start with coding — it's the worst way of solving a problem
 
-- Don't just study DSA only for Interview !!
+- 🚫 Don't just study DSA only for Interview !!
   - Never take shortcut to study DSA
   - Never focus on Interview
 - Focus only on understanding DSA, approach, solution to the problems
@@ -29,19 +29,19 @@ sidebar_position: 1
 
 - Follow the curriculum in the order present in course
 
-- Make your own notes, write & practice your own code
+- ✅ Make your own notes, write & practice your own code
 
 - Understanding DSA, it takes time !!
 
-- **`Spaced repetition & Random Questions`**
+- ✅ **`Spaced repetition & Random Questions`**
   - Frequent Practice, Practice, Practice
   - Focus on thought process, approach to the problems
   - **Spaced repetition on Weekly or Bi Weekly once**
     - Pattern / Approach / Main logic
 
-- `Join the community & help each other`
+- ✅ `Join the community & help each other`
 
-- **Make a habit of daily solving DSA problem at least once a day, at least one problem / day**
+- ✅ **Make a habit of daily solving DSA problem at least once a day, at least one problem / day**
 
 ## Which language ?
 
